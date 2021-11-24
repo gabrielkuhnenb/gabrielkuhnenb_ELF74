@@ -7,9 +7,17 @@ Isso dificulta a otimização do código onde essa variável é utilizada e, por
 é bastante utilizada para acesso a hardware, mapeamento de memória de I/O e threading.
 
 Lab5
+
 Tabela1
+
 ![Tabela1](./Lab5/tabela1.png)
+
+
 Tabela2
+
 ![alt text](./Lab5/tabela2.png)
+
+
 Diagrama
+
 ![alt text](./Lab5/diagrama.png)
