@@ -21,5 +21,11 @@
     <project>
         <path>$WS_DIR$\Lab5\lab5.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\Lab6\lab6.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\ProjetoFinal\projetoFinal.ewp</path>
+    </project>
     <batchBuild />
 </workspace>
